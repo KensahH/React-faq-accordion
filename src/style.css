@@ -1,0 +1,40 @@
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1{
+
+  position:relative;
+  left:50px;
+  text-transform: uppercase;
+  color:goldenrod;
+  
+}
+.question{
+  position: relative;
+  font-size: 15px;
+  left:20px;
+}
+.answer{
+  position: relative;
+  font-size: 10px;
+  display:none;
+}
+.btn{
+  position: relative;
+  left:330px;
+  bottom:35px;
+  font-size: 10px;
+  background-color: goldenrod;
+  color:black;
+  border-radius: 20px;
+  
+}
+.showcase{
+  font-size: 10px;
+  position: relative;
+  left:20px;
+  border-bottom: 1px solid grey;
+
+}
